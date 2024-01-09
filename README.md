@@ -18,7 +18,7 @@ To run this project, you will need:
 2. Open the `main.cpp` file in your preferred IDE or text editor.
 3. Compile and run the program using your C++ compiler.
 
-##** Usage**
+## **Usage**
 Once the program is running, follow the on-screen prompts to interact with the system. The program allows you to manage customer details and access various features of the hotel and travel management system.
 
 ## **Program Overview**
@@ -29,7 +29,7 @@ The main.cpp file is the core of the application. It includes:
 - Methods for capturing and storing customer information.
 - A console-based menu system for navigating through different functionalities.
 
-##** Contributing**
+## **Contributing**
 Contributions to this project are welcome. To contribute:
 
 **
