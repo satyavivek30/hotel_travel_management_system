@@ -18,12 +18,6 @@ To run this project, you will need:
 2. Open the `main.cpp` file in your preferred IDE or text editor.
 3. Compile and run the program using your C++ compiler.
 
-For example, if you're using GCC, you can compile and run the program like this:
-```bash
-g++ -o hotel_system main.cpp
-./hotel_system
-'''
-
 ##** Usage**
 Once the program is running, follow the on-screen prompts to interact with the system. The program allows you to manage customer details and access various features of the hotel and travel management system.
 
