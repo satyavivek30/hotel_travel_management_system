@@ -32,6 +32,4 @@ The main.cpp file is the core of the application. It includes:
 ## **Contributing**
 Contributions to this project are welcome. To contribute:
 
-**
-This updated README now includes a summary of the `main.cpp` file, providing a clearer picture of what the program does and its main features. Feel free to adjust or expand this summary as needed for your project's specifics.
-**
+**This updated README now includes a summary of the `main.cpp` file, providing a clearer picture of what the program does and its main features. Feel free to adjust or expand this summary as needed for your project's specifics.**
