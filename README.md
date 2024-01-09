@@ -29,7 +29,5 @@ The main.cpp file is the core of the application. It includes:
 - Methods for capturing and storing customer information.
 - A console-based menu system for navigating through different functionalities.
 
-## **Contributing**
-Contributions to this project are welcome. To contribute:
 
-**This updated README now includes a summary of the `main.cpp` file, providing a clearer picture of what the program does and its main features. Feel free to adjust or expand this summary as needed for your project's specifics.**
+
